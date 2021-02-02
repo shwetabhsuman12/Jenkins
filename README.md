@@ -33,6 +33,7 @@ PIPELINE:
    Plugin Prerequisite: Pipeline . It will install the other related artifacts.
                         Install pipeline plugins as suggested in [Ref 2]
 
+
 REFERENCES:
  1) https://www.jenkins.io/doc/book/installing/linux/
  2) https://www.jenkins.io/pipeline/getting-started-pipelines/
